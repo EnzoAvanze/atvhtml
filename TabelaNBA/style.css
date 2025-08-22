@@ -1,0 +1,14 @@
+.azull{
+    background-color: lightskyblue;
+}
+.bertaco{
+    display: flex;
+    position: absolute;
+    height: 64.5px;
+    width: 38px;
+    background-color: lightskyblue;
+    align-items: center;
+}
+.efemero{
+    border: solid;
+}
